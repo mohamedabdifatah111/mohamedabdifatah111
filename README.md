@@ -12,5 +12,5 @@
 ### 🏆 GitHub Trophies
 
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Favourite  Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
