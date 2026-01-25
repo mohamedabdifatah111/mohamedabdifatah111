@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mohamed 👋
 
-<!--
-**mohamedabdifatah111/mohamedabdifatah111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats:
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedabdifatah111&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdifatah111&theme=radical" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Most Used Languages
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdifatah111&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedabdifatah111&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
