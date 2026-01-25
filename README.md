@@ -10,7 +10,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedabdifatah111&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=mohamedabdifatah111&theme=radical&column=7)
+
 
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
