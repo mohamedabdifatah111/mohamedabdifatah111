@@ -4,7 +4,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=mohamedabdifatah111&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamedabdifatah111&theme=tokyonight)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdifatah111&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ### 🚀 Most Used Languages
