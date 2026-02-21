@@ -7,4 +7,4 @@
 ![GitHub Streak](https://streak-stats.vercel.app/?user=mohamedabdifatah111&theme=tokyonight)
 ### 🚀 Most Used Languages
 ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamedabdifatah111&layout=compact&theme=radical)
-### 🏆 GitHub Trophies just correct the github statistic part only
+### 🏆 GitHub Trophies 
